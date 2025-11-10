@@ -1,25 +1,12 @@
-<table>
-  <tr>
-    <td>
-
-# 👋 Hey there, I’m Reem Barqawi
-
-🎓 Business Information Systems Graduate from **Yarmouk University**  
-📊 **Aspiring Data Analyst** | Power BI | Excel | SQL | Python (basics)
-
-💡 I’m all about turning raw data into real insights and building dashboards that *actually tell stories*.  
-🚀 Currently leveling up my skills & preparing for the **Microsoft PL-300 certification**.
-
-    </td>
-    <td>
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/ReemBarqawi/ReemBarqawi/main/pic.png" width="250" />
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ReemBarqawi/ReemBarqawi/main/pic.png" width="200" align="right" />
+  <strong>👋 Hey there, I’m Reem Barqawi</strong><br>
+  🎓 Business Information Systems Graduate from <b>Yarmouk University</b><br>
+  📊 <b>Aspiring Data Analyst</b> | Power BI | Excel | SQL | Python (basics)<br>
+  💡 I’m all about turning raw data into real insights and building dashboards that <i>actually tell stories</i>.<br>
+  🚀 Currently leveling up my skills & preparing for the <b>Microsoft PL-300 certification</b>.
 </p>
 
-    </td>
-  </tr>
-</table>
 
 
 ### 🧰 Languages & Tools
