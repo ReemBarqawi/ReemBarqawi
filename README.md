@@ -1,3 +1,7 @@
+<table>
+  <tr>
+    <td>
+
 # 👋 Hey there, I’m Reem Barqawi
 
 🎓 Business Information Systems Graduate from **Yarmouk University**  
@@ -6,12 +10,18 @@
 💡 I’m all about turning raw data into real insights and building dashboards that *actually tell stories*.  
 🚀 Currently leveling up my skills & preparing for the **Microsoft PL-300 certification**.
 
----
+    </td>
+    <td>
 
 <p align="right">
-  <img src="https://github.com/ReemBarqawi/ReemBarqawi/blob/main/pic.png" width="800" />
+  <img src="https://raw.githubusercontent.com/ReemBarqawi/ReemBarqawi/main/pic.png" width="250" />
 </p>
----
+
+    </td>
+  </tr>
+</table>
+
+
 ### 🧰 Languages & Tools
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)
