@@ -9,14 +9,21 @@
 
 ### 📈 GitHub Stats
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReemBarqawi&show_icons=true&theme=cobalt" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemBarqawi&layout=compact&theme=cobalt" width="45%" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReemBarqawi&theme=cobalt" width="90%" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ReemBarqawi&show_icons=true&theme=cobalt" width="300"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemBarqawi&layout=compact&theme=cobalt" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReemBarqawi&theme=cobalt" width="600"/>
+    </td>
+  </tr>
+</table>
 
 
 ### 🧰 Languages & Tools
