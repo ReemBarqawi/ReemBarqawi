@@ -24,3 +24,5 @@
 [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white)](https://www.google.com/sheets/about/)
 [![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-fabric)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
