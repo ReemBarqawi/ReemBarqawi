@@ -5,6 +5,8 @@
   📊 <b>Aspiring Data Analyst</b> | Power BI | Excel | SQL | Python (basics)<br>
   💡 I’m all about turning raw data into real insights and building dashboards that <i>actually tell stories</i>.<br>
   🚀 Currently leveling up my skills & preparing for the <b>Microsoft PL-300 certification</b>.
+
+  ---
 ### 📈 GitHub Stats
 <table>
   <tr>
