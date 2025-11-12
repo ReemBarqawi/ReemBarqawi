@@ -15,11 +15,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemBarqawi&layout=compact&theme=cobalt&hide=jupyter%20notebook&langs_count=8&cache_seconds=1800" width="300"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=ReemBarqawi&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&card_width=600" width="600"/>
-    </td>
-  </tr>
+<tr>
+  <td colspan="2" align="center">
+    <img src="https://streak-stats.demolab.com?user=ReemBarqawi&theme=cobalt&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" width="600"/>
+  </td>
+</tr>
 </table>
 
 
