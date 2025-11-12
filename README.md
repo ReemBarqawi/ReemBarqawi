@@ -5,25 +5,22 @@
   📊 <b>Aspiring Data Analyst</b> | Power BI | Excel | SQL | Python (basics)<br>
   💡 I’m all about turning raw data into real insights and building dashboards that <i>actually tell stories</i>.<br>
   🚀 Currently leveling up my skills & preparing for the <b>Microsoft PL-300 certification</b>.
-</p>
 ### 📈 GitHub Stats
-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ReemBarqawi&show_icons=true&theme=cobalt" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ReemBarqawi&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&cache_seconds=1800" width="300"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemBarqawi&layout=compact&theme=cobalt" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemBarqawi&layout=compact&theme=cobalt&hide=jupyter%20notebook&langs_count=8&cache_seconds=1800" width="300"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=ReemBarqawi&theme=cobalt" width="600"/>
+      <img src="https://streak-stats.demolab.com?user=ReemBarqawi&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&card_width=600" width="600"/>
     </td>
   </tr>
 </table>
-
 
 
 ### 🧰 Languages & Tools
