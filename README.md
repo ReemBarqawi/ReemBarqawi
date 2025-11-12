@@ -6,7 +6,6 @@
   💡 I’m all about turning raw data into real insights and building dashboards that <i>actually tell stories</i>.<br>
   🚀 Currently leveling up my skills & preparing for the <b>Microsoft PL-300 certification</b>.
 </p>
-
 ### 📈 GitHub Stats
 
 <table>
@@ -20,10 +19,11 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReemBarqawi&theme=cobalt" width="600"/>
+      <img src="https://streak-stats.demolab.com?user=ReemBarqawi&theme=cobalt" width="600"/>
     </td>
   </tr>
 </table>
+
 
 
 ### 🧰 Languages & Tools
