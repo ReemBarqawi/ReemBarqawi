@@ -11,13 +11,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ReemBarqawi&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true" width="300"/>
+      <img src="https://raw.githubusercontent.com/ReemBarqawi/ReemBarqawi/main/profile-summary-card-output/cobalt/0-profile-details.svg" width="300"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ReemBarqawi&layout=compact&theme=cobalt&hide=jupyter%20notebook&langs_count=8" width="300"/>
+      <img src="https://raw.githubusercontent.com/ReemBarqawi/ReemBarqawi/main/profile-summary-card-output/cobalt/1-repos-per-language.svg" width="300"/>
     </td>
   </tr>
 </table>
+
 
 
 
