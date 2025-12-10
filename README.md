@@ -7,17 +7,6 @@
   🚀 Currently leveling up my skills & preparing for the <b>Microsoft PL-300 certification</b>.
 
   ---
-### 📈 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/ReemBarqawi/ReemBarqawi/main/profile-summary-card-output/cobalt/0-profile-details.svg" width="300"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/ReemBarqawi/ReemBarqawi/main/profile-summary-card-output/cobalt/1-repos-per-language.svg" width="300"/>
-    </td>
-  </tr>
-</table>
 
 
 
