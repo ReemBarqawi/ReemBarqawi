@@ -11,13 +11,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ReemBarqawi&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&cache_seconds=1800" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ReemBarqawi&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&cache_seconds=1" width="300"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemBarqawi&layout=compact&theme=cobalt&hide=jupyter%20notebook&langs_count=8&cache_seconds=1800" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemBarqawi&layout=compact&theme=cobalt&hide=jupyter%20notebook&langs_count=8&cache_seconds=1" width="300"/>
     </td>
   </tr>
 </table>
+
 
 
 ### 🧰 Languages & Tools
